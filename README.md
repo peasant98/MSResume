@@ -1,4 +1,4 @@
-# My Resume
+# Resume - Matt Strong
 My current resume for my undergraduate degree in Computer Science (BS) at CU Boulder.
 
 Current as of **Fall 2020**.
