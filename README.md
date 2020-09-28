@@ -1,4 +1,6 @@
 # My Resume
 My current resume for my undergraduate degree in Computer Science (BS) at CU Boulder.
 
-This resume is current as of <b>Spring 2020</b>, but will be updated soon!!
+Current as of **Fall 2020**.
+
+This repository will also soon include my CV (for research purposes).
