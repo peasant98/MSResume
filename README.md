@@ -1,5 +1,5 @@
 # Resume + CV - Matt Strong
 
-My current resume and CV (for research purposes) for my undergraduate degree in Computer Science (BS) at CU Boulder.
+My resume and CV (for research purposes).
 
-Current as of **March 2021**.
+Current as of **July 2021**.
