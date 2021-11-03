@@ -2,4 +2,4 @@
 
 My resume and CV (for research purposes).
 
-Current as of **July 2021**.
+Current as of **October 2021**.
