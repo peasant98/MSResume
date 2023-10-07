@@ -1,5 +1,5 @@
-# Resume + CV - Matt Strong
+# Resume and CV
 
-My resume and CV (for research purposes).
+The CV is current as of **Oct 2023**.
 
-The CV is current as of **June 1, 2022**.
+The resume is really old and needs to be updated.
